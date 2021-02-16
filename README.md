@@ -10,5 +10,6 @@ with the credentials you received in the email from admin@pan-learning.org.
 <img src='python_training_ikon1.png'>
 4. Click on “Start My Server”
 5a. Choose "IKON20" if you attend Jupyter Basics, Python Basics or McStas Script seession or "IKON20 - SCIPP"
-<img src='python_training_ikon5.png'>
-5b. Choose "IKON20 - SCIPP" if you attend Extended Libraries or Scipp Session 
+<img src='python_training_ikon6.png'>
+5b. Choose "IKON20 - SCIPP" if you attend Extended Libraries and Testing or Scipp Session 
+<img src='python_training_ikon7.png'>
