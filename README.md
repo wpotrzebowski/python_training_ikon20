@@ -2,8 +2,9 @@
 
 In order to start working on exercises please follow the steps:
 1.  Go to https://pan-learning.org/moodle/course/view.php?id=36 
-2. Login with the credentials you received in the email from admin@pan-learning.org.
+2. Login (click on link right upper corner)
 <img src='python_training_ikon3.png'>
+with the credentials you received in the email from admin@pan-learning.org.
 <img src='python_training_ikon4.png'>
 3. Click on “Jupyterhub (external)”
 <img src='python_training_ikon1.png'>
