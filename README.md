@@ -1,9 +1,7 @@
 ## Welcome to the python training at IKON20
 
 In order to start working on exercises please follow the steps:
-1.  Go to [https://pan-learning.org/moodle/course/view.php?id=36](https://pan-learning.org/moodle/course/view.php?id=36)
-<a href="https://pan-learning.org/moodle/course/view.php?id=36" target="_blank">Python Course Page</a>
-
+1. Go to <a href="https://pan-learning.org/moodle/course/view.php?id=36" target="_blank">Python Course Page on pan-learning</a>
 2. Login (click on link right upper corner)
 <img src='python_training_ikon3.png'>
 with the credentials you received in the email from admin@pan-learning.org.
