@@ -13,3 +13,4 @@ with the credentials you received in the email from admin@pan-learning.org.
 <img src='python_training_ikon6.png'>
 5b. Choose "IKON20 - SCIPP" if you attend Extended Libraries and Testing or Scipp Session 
 <img src='python_training_ikon7.png'>
+6. Go to python-course-ikon/notebooks folder and choose exercises you want to work on
