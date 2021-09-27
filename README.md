@@ -1,4 +1,4 @@
-## Welcome to the python training at IKON20
+## Welcome to the python training at IKON21
 
 In order to start working on exercises please follow the steps:
 1. Copy *https://pan-learning.org/moodle/mod/lti/view.php?id=2071* and paste into your web browser
