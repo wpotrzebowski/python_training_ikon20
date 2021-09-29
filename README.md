@@ -9,4 +9,4 @@ In order to start working on exercises please follow the steps:
 4. Click on *Start My Server* button<br>
 5. Click on *Start* button to start the server<br>
 <img src='ikon21_3.png'>
-6. Go to *python-course-ikon/notebooks* folder and choose exercises you want to work on
+6. Go to *notebooks* folder and choose exercises you want to work on
