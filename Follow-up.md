@@ -1,8 +1,9 @@
-Bellow are described few tracks on how to follow-up 
+## How to continue using course resources after the course?
+If you want to continue with the course material once the course is finished you can do one of the following.
 
-### Using pan-learning
+#### Continune using pan-learning
 
-Access to jupyterhub should remain open after the course and you are welcome to continue using it.
+Access to jupyterhub should remain open for a few days after the course and you are welcome to continue using it.
 
 #### Local installation
 If you prefer to set up local installation of jupyter notebook or lab you can do following
