@@ -13,7 +13,6 @@ If you prefer to set up local installation of jupyter notebook or lab you can do
 
 4. Open Anaconda Navigator and then click on *Launch* Jupyter notebook or lab
 
-![ikon_21_nav](https://user-images.githubusercontent.com/4189922/135410009-fc27f61f-be7a-42db-97cb-a6f00cdffb1b.png)
 
 5. Then navigate to the folder with the cloned repository. 
 6. *Optional:* While jupyter basics and python basics should work without any problem, to be able to run other notebooks you will need to access aditional packages. This can be done by installing packages in anaconda e.g.: 
