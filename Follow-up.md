@@ -1,4 +1,4 @@
-## How to continue using course resources after the course?
+## How to continue to use notebooks after the course?
 If you want to continue with the course material once the course is finished you can do one of the following.
 
 #### Continune using pan-learning
