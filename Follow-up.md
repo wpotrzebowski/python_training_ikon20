@@ -12,7 +12,7 @@ If you prefer to set up local installation of jupyter notebook or lab you can do
 
 2. Clone repository with notebooks by e.g. typing in terminal: *git clone https://github.com/ess-dmsc-dram/python-course-ikon.git*
 
-4. Open Anaconda Navigator and then click on *Launch* Jupyter notebook or lab
+4. Open Anaconda Navigator and then click on *Launch* Jupyter notebook or Jupter lab
 <img src='ikon21_nav_2.png'>
 
 5. Then navigate to the folder with the cloned repository. 
