@@ -23,4 +23,5 @@ If you prefer to set up a local installation of jupyter notebook or lab you can 
    - installing these packages (i.e. numpy matplotlib scipy pandas h5py hdf5 scikit-learn ipywidgets ase nglview scipp pythreejs ipympl ipykernel<=6.3.1) from Anaconda Navigator ([online instructions](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-packages/#installing-a-package)).
 
    Some notebooks might require other packages not available using conda. In this case, please follow the instructions provided in the notebook(s) to install them.
+   
 
