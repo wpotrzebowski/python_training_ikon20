@@ -12,10 +12,11 @@ If you prefer to set up a local installation of jupyter notebook or lab you can 
 
 2. Clone the repository with the notebooks by e.g. typing in terminal: *git clone https://github.com/ess-dmsc-dram/python-course-ikon.git*. Another option is to download a zipped folder of the repository. To do so, go to https://github.com/ess-dmsc-dram/python-course-ikon, click on the green *Code* button and choose *Download zip*.
 
-3. Open Anaconda Navigator and then click on *Launch* Jupyter notebook or Jupter lab
+3a. Follow instructions on https://scipp.github.io/getting-started/installation.html 
+
+3b. Open Anaconda Navigator and then click on *Launch* Jupyter notebook or Jupter lab (and then navigate to the folder where you put the repository). 
 <img src='ikon21_nav_2.png'>
 
-4. Then navigate to the folder where you put the repository. 
 5. *Optional:*  
    While jupyter basics and python basics should work without any problem, to be able to run other notebooks you will need to access additional packages. This can be done by installing packages in anaconda e.g. by: 
    - typing the following command in a terminal,
